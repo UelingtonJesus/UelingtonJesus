@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Atualmente estou desempregado 
-- 🌱 Estudando Desenvolvimento Full Stack na ONG Recode e Tecnologia em Jogos Digitais pelo IFBA
-- 📫 Contate-me no email: uelingtondejesuss.uj@gmail.com
+- 🔭 Junior Systems Engineer at Minsait an Indra
+- 🌱 Estudando Tecnologia em Jogos Digitais pelo IFBA
+- 📫 Contate-me no email: uelington.jesus.dev@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
