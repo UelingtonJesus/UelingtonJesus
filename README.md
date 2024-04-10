@@ -3,7 +3,7 @@
 
 
 - 🔭 Junior Systems Engineer at Minsait an Indra
-- 🌱 Estudando Tecnologia em Jogos Digitais pelo IFBA
+- 🌱 Estudando Bacharel em TI
 - 📫 Contate-me no email: uelington.jesus.dev@gmail.com
 - 😄 Pronouns: ele/dele
 
